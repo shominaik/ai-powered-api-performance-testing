@@ -74,7 +74,7 @@ This is an experimental proof of concept. Validate all generated test plans and 
 - Initial project structure published.
 - Git workflow configured successfully.
 
-- ## Git Learning
+ ## Git Learning
 
 - Practised Git initialisation.
 - Practised committing and pushing changes.
