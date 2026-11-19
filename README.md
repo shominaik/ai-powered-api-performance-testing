@@ -73,3 +73,9 @@ This is an experimental proof of concept. Validate all generated test plans and 
 - Initial GitHub repository created.
 - Initial project structure published.
 - Git workflow configured successfully.
+
+- ## Git Learning
+
+- Practised Git initialisation.
+- Practised committing and pushing changes.
+- Learning to pull remote changes.
