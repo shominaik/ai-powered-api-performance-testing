@@ -1,0 +1,43 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+user.properties
+jmeter.properties
+.codex/
+**/.codex/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# JMeter outputs and logs
+*.jtl
+*.log
+jmeter.log
+output/
+results/
+reports/
+*/bin/jmeter.properties
+
+# Recordings and potentially sensitive traffic
+*.har
+recordings/
+captures/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary archives
+*.zip
+*.7z
+*.tmp
