@@ -79,3 +79,11 @@ This is an experimental proof of concept. Validate all generated test plans and 
 - Practised Git initialisation.
 - Practised committing and pushing changes.
 - Learning to pull remote changes.
+
+
+## 🚀 Try the AI Skill on Agensi.io
+I've also published the **JMeter AI Correlation Assistant** on the Agensi.io marketplace.
+
+👉 **[Explore and Try JMeter AI Correlation Assistant](https://www.agensi.io/skills/jmeter-ai-correlation-assistant)**
+
+Give it a try and share your feedback!
